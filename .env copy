@@ -1,0 +1,6 @@
+MONGO_URI=
+JWT_SECRET=asff
+AAPP_NAME="video-streaming-app"
+PORT=6000
+FRONTEND_URL="http://localhost:3000"
+API_URL=localhost
